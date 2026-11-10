@@ -1,0 +1,1 @@
+export default {content:['./index.html','./src/**/*.{ts,tsx}'],theme:{extend:{colors:{mat:'#e8edea',teal:'#123a36',tag:'#d6246e',ink:'#14201e',amber:'#f2a900'},fontFamily:{head:['"Bricolage Grotesque"','sans-serif'],sans:['Figtree','sans-serif']}}},plugins:[]}
